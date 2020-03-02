@@ -33,8 +33,8 @@ int main()
 	int result_frequency, result_count;
 	
 	readFiletoArray("input_01.txt", input);
-	// findModes(input, NUM_TERMS, result_frequency, result, result_count);
-	// printModes(input, NUM_TERMS, result_frequency, result, result_count);
+	//findModes(input, NUM_TERMS, result_frequency, result, result_count);
+	//printModes(input, NUM_TERMS, result_frequency, result, result_count);
 	
 	readFiletoArray("input_02.txt", input);
 	// findModes(input, NUM_TERMS, result_frequency, result, result_count);
